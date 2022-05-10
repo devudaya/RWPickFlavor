@@ -20,7 +20,7 @@ s.author = { "devudaya" => "niroshan127@gmail.com }
 s.homepage = "https://github.com/devudaya/RWPickFlavor"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/devudaya/RWPickFlavor.git",
+s.source = { :git => "https://github.com/devudaya/RWPickFlavor",
              :tag => "#{s.version}" }
 
 # 7
