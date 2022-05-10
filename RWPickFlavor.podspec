@@ -14,13 +14,13 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "devudaya" => "niroshan127@gmail.com }
+s.author = { "Keegan Rush" => "keeganrush@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/devudaya/RWPickFlavor"
+s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/devudaya/RWPickFlavor",
+s.source = { :git => "https://github.com/TheCodedSelf/RWPickFlavor.git",
              :tag => "#{s.version}" }
 
 # 7
@@ -35,6 +35,7 @@ s.source_files = "RWPickFlavor/**/*.{swift}"
 s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
-s.swift_version = "5.0"
+s.swift_version = "4.2"
 
 end
+
